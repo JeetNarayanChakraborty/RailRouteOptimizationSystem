@@ -82,7 +82,7 @@
                 <li><a href ="">Help-Desk</a></li>
          </ul>
     </nav>
-    <section></section>
+    <section>
 
 <br><br>
 <br><br>
