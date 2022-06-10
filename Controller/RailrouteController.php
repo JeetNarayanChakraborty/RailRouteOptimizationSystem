@@ -78,7 +78,7 @@ class RailrouteController extends Controller
 
 
 
-        $r = random_bytes(6);
+        $r = bin2hex(random_bytes(3));
 
         echo 'Entering';
 
